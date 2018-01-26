@@ -1,0 +1,28 @@
+﻿@model List<Magistral40.Models.InfoArticle>
+@{
+    Layout = "~/Views/Shared/_LayoutInfo.cshtml";
+}
+
+<h1>@ViewBag.Description</h1>
+<div class="magContext">
+    @foreach (var item in Model)
+    {
+        <p>
+            <table style="border-bottom:1px solid #d6d0d0;" class="tab_art">
+                <tr>
+                    <td rowspan="2" valign="top"; style="padding:3px 10px;"><img src="@item.Url_Image"/></td>
+                    <td>
+                        <span style="color:#D76366;margin: 0 10px 0 0;font-size:18px;">@item.date.ToShortDateString()</span>
+                            <span style="color:#1f1e1e;font-size:18px;font-weight:600;">@item.Header</span>
+
+</td>
+                </tr>
+                <tr >
+                    <td style="padding-bottom:1em;">@item.Description...
+                    @Html.RouteLink("Подробнее", new { controller = "Home", action = "InfoArticle", id = item.URL })
+                     </td>
+                </tr>
+            </table>
+        </p>
+    }
+</div>

@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="keywords" content="@ViewBag.KeyWord" />
+    <meta name="description" content="@ViewBag.Description" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="all" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Cache-Control" content="public">
+    <meta http-equiv="Cache-Control" content="max-age=994700, must-revalidate">
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript">
+    </script>
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div class="header">
+        <div class="wrap-header">
+            <div id="logo">
+                <img src="~/Content/images/logoMagistral.png">
+                <div id="desc-block">
+                    <span id="namelogo">МАГИСТРАЛЬ</span>
+                    <span id="deslogo">Продажа нерудных материалов</span>
+                </div>
+            </div>
+            <div class="header-contact">
+                <div class="header-phone">
+                    <strong>+7 (4842) <span>20-16-16</span></strong>
+                    <strong>+7 (4842) <span>20-19-19</span></strong>
+                </div>
+            </div>
+            <a href="#myModal" data-toggle="modal" class="btn btn-primary btn-lg zakaz_phone">
+                Заказать обратный звонок
+            </a>
+        </div>
+        <div class="navbar navbar-inverse ">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="modal" href="#myMenuModal">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="navbar-collapse collapse">
+                    @{ Html.RenderAction("TopMenu", "Home"); }
+                </div>
+
+            </div>
+        </div>
+    </div>
+        <div class="main" style="padding-bottom:200px;">
+            @RenderBody()
+            <div style="clear:both;"></div>
+        </div>
+        <div class="footer">
+            <div class="wrap">
+                <div id="logo_footer">
+                    <img src="~/Content/images/logoMagistral.png">
+                    <div id="desc-block">
+                        <span id="namelogo">МАГИСТРАЛЬ</span>
+                        <span id="deslogo" style="color:#ffffff;">Продажа нерудных материалов</span>
+                    </div>
+                </div>
+                <div class="footer-contact">
+                    <div class="contact-text">
+                        <h2>+7(4842) 20-16-16, +7(4842) 20-19-19 </h2>
+                        <p>г. Калуга, пер. Дальний, д.11</p>
+                    </div>
+                    <a href="#myModal"  data-toggle="modal" class="btn btn-primary btn-lg">Заказать обратный звонок</a>
+                    <a href="https://metrika.yandex.ru/stat/?id=45931650&amp;from=informer"
+                       target="_blank" rel="nofollow" style="float:left;">
+                        <img src="https://informer.yandex.ru/informer/45931650/3_0_FFFFFFFF_FFFFFFFF_0_pageviews"
+                             style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="45931650" data-lang="ru" />
+                    </a>
+                </div>
+                 <span id="desTime" style="color:#DDD;">@DateTime.Now.Year – приложение ENGANT</span>
+            </div>
+        </div>
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+        @Html.Partial("CallBack")
+        @Html.Partial("ModalInfo")
+        @Html.Partial("MainMenuModal")
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/45931650" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+</body>
+</html>

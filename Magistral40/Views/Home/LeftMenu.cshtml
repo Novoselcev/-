@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Magistral40.Models.MenuTop>
+@{
+    Layout = null;
+    string act = "";
+    if (ViewContext.RouteData.Values["id"] != null)
+    {
+        act = ViewContext.RouteData.Values["id"].ToString();
+    }
+}
+<div class="menu-email vert_menu">
+    <h2>Полезная<br>информация</h2>
+    <ul>
+        @foreach (var link in Model)
+        {
+
+            <li @(act == link.Header ? "class=selected" : "")> @Html.RouteLink(link.Header, new { controller = "Home", action = "InfoContext", id = link.Header })</li>
+
+        }
+    </ul>
+</div>
