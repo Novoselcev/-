@@ -878,4 +878,5 @@ a.btn.btn-primary.btn-lg {margin-left:20px; font-size:14px; padding:8px 12px;}
 @media (min-width:380px) {
 .magContext .table {width:100%; }
 .magContext .table tr {font-size: 14px; }
+.newClass {font-size:12px;}
 }
