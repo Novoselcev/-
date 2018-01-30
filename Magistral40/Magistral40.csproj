@@ -377,6 +377,8 @@
     <Content Include="Views\Error\Forbidden.cshtml" />
     <Content Include="Views\Shared\NotFound.cshtml" />
     <Content Include="Views\Shared\MainMenuModal.cshtml" />
+    <Content Include="Views\Home\ProductModelMenu.cshtml" />
+    <Content Include="Views\Home\InfoModalMenu.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -6,15 +6,17 @@
         act=ViewContext.RouteData.Values["id"].ToString();
     }
 }
-<div class="menu-email vert_menu">
-    <h2>Наша<br> продукция</h2>
-    <ul>
-@foreach (var link in Model)
-{
-  
-    <li @(act== link.URL ? "class=selected" : "")> @Html.RouteLink(link.Header, new { controller = "Home", action = "ProdContext", id = link.URL })</li>
-    
-}
-    </ul>
-</div>
+
+        <div class="menu-email vert_menu" >
+            <h2>Наша<br> продукция</h2>
+            <button type="button" class="close_but_menu" data-dismiss="modal" aria-hidden="true">×</button>
+            <ul>
+                @foreach (var link in Model)
+            {
+
+                    <li @(act == link.URL ? "class=selected" : "")> @Html.RouteLink(link.Header, new { controller = "Home", action = "ProdContext", id = link.URL })</li>
+
+                }
+            </ul>
+        </div>
 

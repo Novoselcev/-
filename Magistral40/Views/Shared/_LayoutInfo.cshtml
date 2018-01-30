@@ -55,12 +55,17 @@
     </div>
     <div class="main" style="padding-bottom:300px;">
         <div class="wrap">
-            @{ Html.RenderAction("LeftMenu", "Home"); }
-            <div class="contentM">
-                @RenderBody()
+            <button type="button" class="button_open_menu_info" data-toggle="modal" href="#myMenuInfo">
+                Статьи
+            </button>
+            <div class="vis_menu">
+                @{ Html.RenderAction("LeftMenu", "Home"); }
             </div>
-            <div style="clear:both;"></div>
-        </div>
+                <div class="contentM">
+                    @RenderBody()
+                </div>
+                <div style="clear:both;"></div>
+            </div>
     </div>
     <div class="footer">
         <div class="wrap">
@@ -92,6 +97,7 @@
     @Html.Partial("CallBack")
     @Html.Partial("ModalInfo")
     @Html.Partial("MainMenuModal")
+    @Html.Partial("InfoModalMenu")
     <!-- Yandex.Metrika counter -->
     <script type="text/javascript">
     </script>
