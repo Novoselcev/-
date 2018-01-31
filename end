@@ -1,0 +1,78 @@
+[33mcommit bcced967cf555fe2fcde3e1bb95f39aaa1635ab1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: f9c3fa0 2d1aa4a
+Author: Alexey Novoselcev <alexey.novoselcev@yandex.ru>
+Date:   Sat Jan 27 01:04:37 2018 +0300
+
+    Merge branch 'master' of https://github.com/Novoselcev/-.git
+
+[33mcommit 2d1aa4ab3fb47ef6a1152676b4f5e9d527d69412[m
+Author: Novoselcev <35845660+Novoselcev@users.noreply.github.com>
+Date:   Sat Jan 27 01:04:14 2018 +0300
+
+    Delet web config
+
+[33mcommit f9c3fa030d80ece39aadf2c150eb7b25921b463e[m
+Author: Alexey Novoselcev <alexey.novoselcev@yandex.ru>
+Date:   Sat Jan 27 00:55:42 2018 +0300
+
+    Magistral40/Web.config
+
+[33mcommit 9b25f96990580f013da95404dd339a6aa0f269d5[m
+Author: Alexey Novoselcev <alexey.novoselcev@yandex.ru>
+Date:   Sat Jan 27 00:55:42 2018 +0300
+
+    Magistral40/Web.config
+
+[33mcommit e99e7da26b54535a2be2118216a3d2f0664c8e23[m
+Merge: ea9ae9c f55b7b0
+Author: Alexey Novoselcev <alexey.novoselcev@yandex.ru>
+Date:   Sat Jan 27 00:52:02 2018 +0300
+
+    Замена css
+
+[33mcommit d338f8964a4d15ed420b27ecfa1e223c5d89c0a3[m
+Merge: 585089f 80b6a66
+Author: Alexey Novoselcev <alexey.novoselcev@yandex.ru>
+Date:   Sat Jan 27 00:52:02 2018 +0300
+
+    Замена css
+
+[33mcommit ea9ae9c11c17eae733896273695bcd6b2e855676[m
+Author: Alexey Novoselcev <alexey.novoselcev@yandex.ru>
+Date:   Sat Jan 27 00:40:17 2018 +0300
+
+    4закачка
+
+[33mcommit 585089f60b99c415d9fcf78f117bfb8532431f4a[m
+Author: Alexey Novoselcev <alexey.novoselcev@yandex.ru>
+Date:   Sat Jan 27 00:40:17 2018 +0300
+
+    4закачка
+
+[33mcommit f55b7b02e8048ba042b8f1dbc96d9f4b362d29db[m
+Author: Novoselcev <35845660+Novoselcev@users.noreply.github.com>
+Date:   Sat Jan 27 00:36:31 2018 +0300
+
+    Update Web.config
+    
+    Удаление данных
+
+[33mcommit 80b6a6653fac57fae0c9b4f1bf14674ef48e76ba[m
+Author: Novoselcev <35845660+Novoselcev@users.noreply.github.com>
+Date:   Sat Jan 27 00:36:31 2018 +0300
+
+    Update Web.config
+    
+    Удаление данных
+
+[33mcommit c520caf133b5caefd3fbcfec6a73983accb83e40[m
+Author: Alexey Novoselcev <alexey.novoselcev@yandex.ru>
+Date:   Fri Jan 26 23:52:15 2018 +0300
+
+    Первая загрузка проекта
+
+[33mcommit fc789a8bb0c538bbc1c71a97889e400f944fc3c4[m
+Author: Alexey Novoselcev <alexey.novoselcev@yandex.ru>
+Date:   Fri Jan 26 23:52:15 2018 +0300
+
+    Первая загрузка проекта
