@@ -207,12 +207,16 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\images\article\but_170_110.jpg" />
+    <Content Include="Content\images\article\but_260_180.jpg" />
     <Content Include="Content\images\article\frac_scheben.jpg" />
     <Content Include="Content\images\article\fr_scheben.jpg" />
     <Content Include="Content\images\article\fundament_but.jpg" />
     <Content Include="Content\images\article\info-pgs.jpg" />
     <Content Include="Content\images\article\info-scheben.jpg" />
     <Content Include="Content\images\article\info-scheben2.jpg" />
+    <Content Include="Content\images\article\pesok_rechnoi_170_110.jpg" />
+    <Content Include="Content\images\article\pesok_rechnoi_260_180.jpg" />
     <Content Include="Content\images\article\pesok_scheben.jpg" />
     <Content Include="Content\images\article\pesok_scheben_article.jpg" />
     <Content Include="Content\images\article\podushka.jpg" />
