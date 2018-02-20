@@ -221,6 +221,8 @@
     <Content Include="Content\images\article\pesok_scheben_article.jpg" />
     <Content Include="Content\images\article\podushka.jpg" />
     <Content Include="Content\images\article\podushka1.jpg" />
+    <Content Include="Content\images\article\stroitelnii_pesok.jpg" />
+    <Content Include="Content\images\article\stroitelnii_pesok2.jpg" />
     <Content Include="Content\images\article\styajka_keramzit.jpg" />
     <Content Include="Content\images\article\styajka_keramzit_m.jpg" />
     <Content Include="Content\images\article\styajka_keramzit_m1.jpg" />
@@ -228,6 +230,11 @@
     <Content Include="Content\images\but-call\after_call_but.png" />
     <Content Include="Content\images\but-call\befor_call_but.png" />
     <Content Include="Content\images\but-call\call_but.png" />
+    <Content Include="Content\images\content\kachestvo.jpg" />
+    <Content Include="Content\images\content\kompani.jpg" />
+    <Content Include="Content\images\content\kompani1.jpg" />
+    <Content Include="Content\images\content\sotrudnichestvo.png" />
+    <Content Include="Content\images\default.jpg" />
     <Content Include="Content\images\error404.jpg" />
     <Content Include="Content\images\fon.jpg" />
     <Content Include="Content\images\icons8-Cancel-48.png" />
@@ -239,14 +246,23 @@
     <Content Include="Content\images\logoMagistral.png" />
     <Content Include="Content\images\Main\bit.png" />
     <Content Include="Content\images\Main\but.jpg" />
+    <Content Include="Content\images\Main\call_but.png" />
     <Content Include="Content\images\Main\clock.png" />
     <Content Include="Content\images\Main\Doverie.jpg" />
+    <Content Include="Content\images\Main\emaill.jpg" />
+    <Content Include="Content\images\Main\fon.jpg" />
     <Content Include="Content\images\Main\grunt.jpg" />
     <Content Include="Content\images\Main\individ.png" />
+    <Content Include="Content\images\Main\info-pgs.jpg" />
+    <Content Include="Content\images\Main\info-scheben.jpg" />
+    <Content Include="Content\images\Main\info-scheben2.jpg" />
     <Content Include="Content\images\Main\keramzit.jpg" />
+    <Content Include="Content\images\Main\nameI.jpg" />
     <Content Include="Content\images\Main\NamPesokMS.jpg" />
     <Content Include="Content\images\Main\pesokMS.jpg" />
     <Content Include="Content\images\Main\pgsMS.jpg" />
+    <Content Include="Content\images\Main\phonel.jpg" />
+    <Content Include="Content\images\Main\phoneS.jpg" />
     <Content Include="Content\images\Main\quantity.png" />
     <Content Include="Content\images\Main\SchebenIGRA.jpg" />
     <Content Include="Content\images\Main\SchebenIGRV.jpg" />
@@ -330,7 +346,9 @@
     <Content Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
-    <Content Include="Views\Web.config" />
+    <Content Include="Views\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />

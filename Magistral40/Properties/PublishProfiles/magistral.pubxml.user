@@ -6,200 +6,206 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\Users\lexx9\Desktop\Relise</_PublishTargetUrl>
+    <_PublishTargetUrl>F:\Relise</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/Antlr3.Runtime.dll">
-      <publishTime>09/02/2017 22:32:14</publishTime>
+      <publishTime>09/02/2017 22:32:12</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
-      <publishTime>09/02/2017 22:32:20</publishTime>
+      <publishTime>09/02/2017 22:32:18</publishTime>
     </File>
     <File Include="bin/EntityFramework.SqlServer.dll">
-      <publishTime>09/02/2017 22:32:20</publishTime>
+      <publishTime>09/02/2017 22:32:19</publishTime>
     </File>
     <File Include="bin/Magistral40.dll">
-      <publishTime>12/17/2017 20:23:11</publishTime>
+      <publishTime>02/20/2018 21:09:16</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
-      <publishTime>09/02/2017 22:32:28</publishTime>
+      <publishTime>09/02/2017 22:32:26</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
-      <publishTime>09/02/2017 22:32:28</publishTime>
+      <publishTime>09/02/2017 22:32:26</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
-      <publishTime>09/02/2017 22:32:28</publishTime>
+      <publishTime>09/02/2017 22:32:27</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
-      <publishTime>09/02/2017 22:32:38</publishTime>
+      <publishTime>09/02/2017 22:32:36</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.dll">
-      <publishTime>09/02/2017 22:32:42</publishTime>
+      <publishTime>09/02/2017 22:32:41</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
-      <publishTime>09/02/2017 22:32:42</publishTime>
+      <publishTime>09/02/2017 22:32:41</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
-      <publishTime>09/02/2017 22:32:44</publishTime>
+      <publishTime>09/02/2017 22:32:43</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.dll">
-      <publishTime>09/02/2017 22:32:44</publishTime>
+      <publishTime>09/02/2017 22:32:42</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
-      <publishTime>09/02/2017 22:32:44</publishTime>
+      <publishTime>09/02/2017 22:32:43</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.Google.dll">
-      <publishTime>09/02/2017 22:32:46</publishTime>
+      <publishTime>09/02/2017 22:32:44</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
-      <publishTime>09/02/2017 22:32:46</publishTime>
+      <publishTime>09/02/2017 22:32:44</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
-      <publishTime>09/02/2017 22:32:46</publishTime>
+      <publishTime>09/02/2017 22:32:45</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
-      <publishTime>09/02/2017 22:32:46</publishTime>
+      <publishTime>09/02/2017 22:32:45</publishTime>
     </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
-      <publishTime>09/02/2017 22:32:48</publishTime>
+      <publishTime>09/02/2017 22:32:46</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
-      <publishTime>09/02/2017 22:32:50</publishTime>
+      <publishTime>09/02/2017 22:32:48</publishTime>
     </File>
     <File Include="bin/NotFoundMvc.dll">
-      <publishTime>11/14/2017 18:44:38</publishTime>
+      <publishTime>01/30/2018 19:09:43</publishTime>
     </File>
     <File Include="bin/Owin.dll">
-      <publishTime>09/02/2017 22:32:50</publishTime>
+      <publishTime>09/02/2017 22:32:49</publishTime>
     </File>
     <File Include="bin/RazorEngine.dll">
-      <publishTime>09/02/2017 22:32:50</publishTime>
+      <publishTime>09/02/2017 22:32:49</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
-      <publishTime>09/02/2017 22:32:40</publishTime>
+      <publishTime>09/02/2017 22:32:38</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
-      <publishTime>09/02/2017 22:32:40</publishTime>
+      <publishTime>09/02/2017 22:32:38</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
-      <publishTime>09/02/2017 22:32:40</publishTime>
+      <publishTime>09/02/2017 22:32:39</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
-      <publishTime>09/02/2017 22:32:40</publishTime>
+      <publishTime>09/02/2017 22:32:39</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
-      <publishTime>09/02/2017 22:32:42</publishTime>
+      <publishTime>09/02/2017 22:32:40</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
-      <publishTime>09/02/2017 22:32:42</publishTime>
+      <publishTime>09/02/2017 22:32:40</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
-      <publishTime>09/02/2017 22:32:42</publishTime>
+      <publishTime>09/02/2017 22:32:40</publishTime>
     </File>
     <File Include="bin/roslyn/System.Collections.Immutable.dll">
-      <publishTime>09/02/2017 22:32:42</publishTime>
+      <publishTime>09/02/2017 22:32:40</publishTime>
     </File>
     <File Include="bin/roslyn/System.Reflection.Metadata.dll">
-      <publishTime>09/02/2017 22:32:42</publishTime>
+      <publishTime>09/02/2017 22:32:40</publishTime>
     </File>
     <File Include="bin/roslyn/vbc.exe">
-      <publishTime>09/02/2017 22:32:42</publishTime>
+      <publishTime>09/02/2017 22:32:40</publishTime>
     </File>
     <File Include="bin/roslyn/VBCSCompiler.exe">
-      <publishTime>09/02/2017 22:32:42</publishTime>
+      <publishTime>09/02/2017 22:32:40</publishTime>
     </File>
     <File Include="bin/roslyn/VBCSCompiler.exe.config">
-      <publishTime>09/02/2017 22:32:42</publishTime>
+      <publishTime>09/02/2017 22:32:40</publishTime>
     </File>
     <File Include="bin/ru/EntityFramework.resources.dll">
-      <publishTime>09/02/2017 22:32:20</publishTime>
+      <publishTime>09/02/2017 22:32:19</publishTime>
     </File>
     <File Include="bin/ru/EntityFramework.SqlServer.resources.dll">
-      <publishTime>09/02/2017 22:32:20</publishTime>
+      <publishTime>09/02/2017 22:32:19</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.AspNet.Identity.Core.resources.dll">
-      <publishTime>09/02/2017 22:32:28</publishTime>
+      <publishTime>09/02/2017 22:32:26</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.AspNet.Identity.EntityFramework.resources.dll">
-      <publishTime>09/02/2017 22:32:28</publishTime>
+      <publishTime>09/02/2017 22:32:26</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.AspNet.Identity.Owin.resources.dll">
-      <publishTime>09/02/2017 22:32:28</publishTime>
+      <publishTime>09/02/2017 22:32:27</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.Owin.Host.SystemWeb.resources.dll">
-      <publishTime>09/02/2017 22:32:42</publishTime>
+      <publishTime>09/02/2017 22:32:41</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.Owin.resources.dll">
-      <publishTime>09/02/2017 22:32:42</publishTime>
+      <publishTime>09/02/2017 22:32:41</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.Owin.Security.Facebook.resources.dll">
-      <publishTime>09/02/2017 22:32:44</publishTime>
+      <publishTime>09/02/2017 22:32:43</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.Owin.Security.Google.resources.dll">
-      <publishTime>09/02/2017 22:32:46</publishTime>
-    </File>
-    <File Include="bin/ru/Microsoft.Owin.Security.MicrosoftAccount.resources.dll">
-      <publishTime>09/02/2017 22:32:46</publishTime>
-    </File>
-    <File Include="bin/ru/Microsoft.Owin.Security.resources.dll">
       <publishTime>09/02/2017 22:32:44</publishTime>
     </File>
+    <File Include="bin/ru/Microsoft.Owin.Security.MicrosoftAccount.resources.dll">
+      <publishTime>09/02/2017 22:32:44</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Owin.Security.resources.dll">
+      <publishTime>09/02/2017 22:32:42</publishTime>
+    </File>
     <File Include="bin/ru/Microsoft.Owin.Security.Twitter.resources.dll">
-      <publishTime>09/02/2017 22:32:46</publishTime>
+      <publishTime>09/02/2017 22:32:45</publishTime>
     </File>
     <File Include="bin/ru/System.Web.Helpers.resources.dll">
-      <publishTime>09/02/2017 22:32:36</publishTime>
+      <publishTime>09/02/2017 22:32:34</publishTime>
     </File>
     <File Include="bin/ru/System.Web.Mvc.resources.dll">
-      <publishTime>09/02/2017 22:32:30</publishTime>
+      <publishTime>09/02/2017 22:32:29</publishTime>
     </File>
     <File Include="bin/ru/System.Web.Optimization.resources.dll">
-      <publishTime>09/02/2017 22:32:34</publishTime>
+      <publishTime>09/02/2017 22:32:32</publishTime>
     </File>
     <File Include="bin/ru/System.Web.Razor.resources.dll">
-      <publishTime>09/02/2017 22:32:32</publishTime>
+      <publishTime>09/02/2017 22:32:31</publishTime>
     </File>
     <File Include="bin/ru/System.Web.WebPages.Deployment.resources.dll">
-      <publishTime>09/02/2017 22:32:36</publishTime>
+      <publishTime>09/02/2017 22:32:34</publishTime>
     </File>
     <File Include="bin/ru/System.Web.WebPages.Razor.resources.dll">
-      <publishTime>09/02/2017 22:32:36</publishTime>
+      <publishTime>09/02/2017 22:32:34</publishTime>
     </File>
     <File Include="bin/ru/System.Web.WebPages.resources.dll">
-      <publishTime>09/02/2017 22:32:36</publishTime>
+      <publishTime>09/02/2017 22:32:34</publishTime>
     </File>
     <File Include="bin/System.Web.Helpers.dll">
-      <publishTime>09/02/2017 22:32:34</publishTime>
+      <publishTime>09/02/2017 22:32:33</publishTime>
     </File>
     <File Include="bin/System.Web.Mvc.dll">
-      <publishTime>09/02/2017 22:32:30</publishTime>
+      <publishTime>09/02/2017 22:32:28</publishTime>
     </File>
     <File Include="bin/System.Web.Optimization.dll">
-      <publishTime>09/02/2017 22:32:34</publishTime>
-    </File>
-    <File Include="bin/System.Web.Razor.dll">
       <publishTime>09/02/2017 22:32:32</publishTime>
     </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>09/02/2017 22:32:31</publishTime>
+    </File>
     <File Include="bin/System.Web.WebPages.Deployment.dll">
-      <publishTime>09/02/2017 22:32:34</publishTime>
+      <publishTime>09/02/2017 22:32:33</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.dll">
-      <publishTime>09/02/2017 22:32:34</publishTime>
+      <publishTime>09/02/2017 22:32:33</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.Razor.dll">
-      <publishTime>09/02/2017 22:32:34</publishTime>
+      <publishTime>09/02/2017 22:32:33</publishTime>
     </File>
     <File Include="bin/VkNet.UWP.dll">
-      <publishTime>09/06/2017 22:42:46</publishTime>
+      <publishTime>09/06/2017 22:42:45</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
-      <publishTime>09/02/2017 22:32:52</publishTime>
+      <publishTime>09/02/2017 22:32:50</publishTime>
     </File>
     <File Include="Content/bootstrap.css">
-      <publishTime>11/29/2017 22:56:02</publishTime>
+      <publishTime>02/20/2018 21:08:40</publishTime>
     </File>
     <File Include="Content/bootstrap.min.css">
-      <publishTime>09/13/2017 23:54:00</publishTime>
+      <publishTime>02/20/2018 21:08:49</publishTime>
+    </File>
+    <File Include="Content/images/article/but_170_110.jpg">
+      <publishTime>01/31/2018 18:28:42</publishTime>
+    </File>
+    <File Include="Content/images/article/but_260_180.jpg">
+      <publishTime>01/31/2018 18:28:42</publishTime>
     </File>
     <File Include="Content/images/article/frac_scheben.jpg">
       <publishTime>10/25/2017 22:15:04</publishTime>
@@ -218,6 +224,12 @@
     </File>
     <File Include="Content/images/article/info-scheben2.jpg">
       <publishTime>10/03/2017 19:40:24</publishTime>
+    </File>
+    <File Include="Content/images/article/pesok_rechnoi_170_110.jpg">
+      <publishTime>01/31/2018 18:28:42</publishTime>
+    </File>
+    <File Include="Content/images/article/pesok_rechnoi_260_180.jpg">
+      <publishTime>01/31/2018 18:28:42</publishTime>
     </File>
     <File Include="Content/images/article/pesok_scheben.jpg">
       <publishTime>10/25/2017 22:15:04</publishTime>
@@ -252,6 +264,9 @@
     <File Include="Content/images/but-call/call_but.png">
       <publishTime>09/02/2017 22:32:04</publishTime>
     </File>
+    <File Include="Content/images/default.jpg">
+      <publishTime>02/20/2018 19:42:10</publishTime>
+    </File>
     <File Include="Content/images/error404.jpg">
       <publishTime>11/13/2017 19:02:53</publishTime>
     </File>
@@ -277,7 +292,7 @@
       <publishTime>09/03/2017 16:07:10</publishTime>
     </File>
     <File Include="Content/images/logoMagistral.png">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/20/2018 19:42:11</publishTime>
     </File>
     <File Include="Content/images/Main/bit.png">
       <publishTime>09/02/2017 22:32:04</publishTime>
@@ -418,7 +433,7 @@
       <publishTime>09/02/2017 22:32:06</publishTime>
     </File>
     <File Include="Content/Site.css">
-      <publishTime>11/29/2017 22:53:59</publishTime>
+      <publishTime>02/20/2018 18:57:19</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>10/17/2017 22:28:54</publishTime>
@@ -523,7 +538,7 @@
       <publishTime>09/02/2017 22:32:10</publishTime>
     </File>
     <File Include="Scripts/Lib.js">
-      <publishTime>10/03/2017 19:40:24</publishTime>
+      <publishTime>12/25/2017 19:56:27</publishTime>
     </File>
     <File Include="Scripts/modernizr-2.6.2.js">
       <publishTime>09/02/2017 22:32:10</publishTime>
@@ -595,22 +610,25 @@
       <publishTime>10/25/2017 23:36:37</publishTime>
     </File>
     <File Include="Views/Home/InfoContent.cshtml">
-      <publishTime>09/20/2017 23:21:18</publishTime>
+      <publishTime>01/30/2018 23:51:34</publishTime>
     </File>
     <File Include="Views/Home/InfoContext.cshtml">
       <publishTime>12/17/2017 19:20:11</publishTime>
+    </File>
+    <File Include="Views/Home/InfoModalMenu.cshtml">
+      <publishTime>01/30/2018 23:02:54</publishTime>
     </File>
     <File Include="Views/Home/IntInfo.cshtml">
       <publishTime>09/13/2017 22:09:04</publishTime>
     </File>
     <File Include="Views/Home/LeftMenu.cshtml">
-      <publishTime>10/23/2017 22:02:32</publishTime>
+      <publishTime>01/30/2018 23:51:30</publishTime>
     </File>
     <File Include="Views/Home/MenuProduct.cshtml">
-      <publishTime>09/28/2017 21:44:46</publishTime>
+      <publishTime>01/30/2018 23:20:52</publishTime>
     </File>
     <File Include="Views/Home/MessageSent.cshtml">
-      <publishTime>09/06/2017 22:36:00</publishTime>
+      <publishTime>01/16/2018 21:34:21</publishTime>
     </File>
     <File Include="Views/Home/PriceProduct.cshtml">
       <publishTime>09/02/2017 22:32:12</publishTime>
@@ -621,6 +639,9 @@
     <File Include="Views/Home/ProdContext.cshtml">
       <publishTime>09/22/2017 22:59:32</publishTime>
     </File>
+    <File Include="Views/Home/ProductModelMenu.cshtml">
+      <publishTime>01/30/2018 22:50:07</publishTime>
+    </File>
     <File Include="Views/Home/Products.cshtml">
       <publishTime>09/12/2017 22:01:42</publishTime>
     </File>
@@ -628,7 +649,7 @@
       <publishTime>09/12/2017 22:09:54</publishTime>
     </File>
     <File Include="Views/Home/TopMenu.cshtml">
-      <publishTime>10/27/2017 00:07:55</publishTime>
+      <publishTime>01/18/2018 21:32:08</publishTime>
     </File>
     <File Include="Views/Home/TopMenuContext.cshtml">
       <publishTime>09/22/2017 22:48:30</publishTime>
@@ -660,6 +681,9 @@
     <File Include="Views/Shared/Lockout.cshtml">
       <publishTime>09/02/2017 22:32:12</publishTime>
     </File>
+    <File Include="Views/Shared/MainMenuModal.cshtml">
+      <publishTime>01/30/2018 22:26:16</publishTime>
+    </File>
     <File Include="Views/Shared/ModalInfo.cshtml">
       <publishTime>09/05/2017 22:18:02</publishTime>
     </File>
@@ -670,13 +694,13 @@
       <publishTime>09/02/2017 22:32:12</publishTime>
     </File>
     <File Include="Views/Shared/_LayoutInfo.cshtml">
-      <publishTime>10/23/2017 21:30:24</publishTime>
+      <publishTime>01/31/2018 18:37:53</publishTime>
     </File>
     <File Include="Views/Shared/_LayoutMagis.cshtml">
-      <publishTime>11/29/2017 22:02:00</publishTime>
+      <publishTime>02/20/2018 20:50:31</publishTime>
     </File>
     <File Include="Views/Shared/_LayoutT.cshtml">
-      <publishTime>10/17/2017 22:44:06</publishTime>
+      <publishTime>01/31/2018 18:37:39</publishTime>
     </File>
     <File Include="Views/Shared/_LoginPartial.cshtml">
       <publishTime>09/02/2017 22:32:12</publishTime>
@@ -688,7 +712,7 @@
       <publishTime>09/02/2017 22:32:10</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>11/29/2017 23:02:44</publishTime>
+      <publishTime>02/20/2018 21:09:59</publishTime>
     </File>
   </ItemGroup>
 </Project>

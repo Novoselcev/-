@@ -2104,8 +2104,9 @@ td.hidden-print{display:none !important;}
     }
 }
 @media (min-width:580px) {
-     .wrap-header {
-        height:85px;
+    .wrap-header {
+        height: 85px;
+    }
 }
 @media (min-width:780px) {
 
