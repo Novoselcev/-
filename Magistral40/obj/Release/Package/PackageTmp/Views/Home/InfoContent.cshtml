@@ -1,0 +1,14 @@
+﻿@model IEnumerable<Magistral40.Models.Product>
+@{
+    Layout = null;
+}
+<div class="menu-email vert_menu">
+    <h2>Полезная<br>информация</h2>
+    
+    <ul>
+        @foreach (var link in Model)
+        {
+            <li>@Html.RouteLink(link.Header, new { controller = "Home", action = "InfoContent", subcategory = link.Id })</li>
+        }
+    </ul>
+</div>

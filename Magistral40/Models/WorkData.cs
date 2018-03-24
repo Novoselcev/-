@@ -96,7 +96,12 @@ namespace Magistral40.Models
                 Header = o.Key
                 
             }).ToList();
+            Cryptography cr = new Cryptography();
+            var temp = db.Admins.First();
+            temp.password = cr.Shifrovka("1009973klrs!", "Я хочу быть счастливым человеком и жить в достатке");
+            db.SaveChanges();
             return menu.OrderBy(x=>x.Header).ToList();
+
         }
 
         public List<InfoArticle> Get_spis_article_info(string razdel)

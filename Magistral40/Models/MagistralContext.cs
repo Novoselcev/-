@@ -13,7 +13,7 @@ namespace Magistral40.Models
         public DbSet<Prices> Prices { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<Messager> Message { get; set; }
-
+        public DbSet<Admin> Admins { get; set; }
         public DbSet<Articles> Articl { get; set; }
 
     }

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище u7716449_magistralModelContainer" CdmEntityContainer="u7716449_magistralEntities">
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="u7716449_magistralModel.Products">
+        <MappingFragment StoreEntitySet="Products">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Context" ColumnName="Context" />
+          <ScalarProperty Name="Header" ColumnName="Header" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="keywords" ColumnName="keywords" />
+          <ScalarProperty Name="UrlDescriptImg" ColumnName="UrlDescriptImg" />
+          <ScalarProperty Name="Position" ColumnName="Position" />
+          <ScalarProperty Name="Visible" ColumnName="Visible" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="URL" ColumnName="URL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Messager">
+      <EntityTypeMapping TypeName="u7716449_magistralModel.Messager">
+        <MappingFragment StoreEntitySet="Messager">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="EmailAdrress" ColumnName="EmailAdrress" />
+          <ScalarProperty Name="Message" ColumnName="Message" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Articles">
+      <EntityTypeMapping TypeName="u7716449_magistralModel.Articles">
+        <MappingFragment StoreEntitySet="Articles">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Context" ColumnName="Context" />
+          <ScalarProperty Name="Header" ColumnName="Header" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="keywords" ColumnName="keywords" />
+          <ScalarProperty Name="UrlDescriptImg" ColumnName="UrlDescriptImg" />
+          <ScalarProperty Name="Position" ColumnName="Position" />
+          <ScalarProperty Name="Visible" ColumnName="Visible" />
+          <ScalarProperty Name="Menu" ColumnName="Menu" />
+          <ScalarProperty Name="URL" ColumnName="URL" />
+          <ScalarProperty Name="Layout" ColumnName="Layout" />
+          <ScalarProperty Name="Razdel" ColumnName="Razdel" />
+          <ScalarProperty Name="SmallDescript" ColumnName="SmallDescript" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Prices">
+      <EntityTypeMapping TypeName="u7716449_magistralModel.Prices">
+        <MappingFragment StoreEntitySet="Prices">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="IE" ColumnName="IE" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Group_Name" ColumnName="Group_Name" />
+          <ScalarProperty Name="Group_Name_Main" ColumnName="Group_Name_Main" />
+          <ScalarProperty Name="URL" ColumnName="URL" />
+          <ScalarProperty Name="SortIndex" ColumnName="SortIndex" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

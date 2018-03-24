@@ -184,6 +184,7 @@
     <Compile Include="ClLib\EmailMes.cs" />
     <Compile Include="ClLib\Vkontakte.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\ErrorController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
@@ -191,9 +192,11 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Admin.cs" />
     <Compile Include="Models\Articles.cs" />
     <Compile Include="Models\CatalogArticle.cs" />
     <Compile Include="Models\ContactFull.cs" />
+    <Compile Include="Models\Cryptography.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\InfoArticle.cs" />
     <Compile Include="Models\MagistralContext.cs" />
@@ -210,6 +213,8 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\images\article\beton-svoimi-rukami-1.jpg" />
+    <Content Include="Content\images\article\beton-svoimi-rukami-2.jpg" />
     <Content Include="Content\images\article\but_170_110.jpg" />
     <Content Include="Content\images\article\but_260_180.jpg" />
     <Content Include="Content\images\article\frac_scheben.jpg" />
@@ -221,7 +226,11 @@
     <Content Include="Content\images\article\pesok_rechnoi_170_110.jpg" />
     <Content Include="Content\images\article\pesok_rechnoi_260_180.jpg" />
     <Content Include="Content\images\article\pesok_scheben.jpg" />
+    <Content Include="Content\images\article\pesok_scheben1.jpg" />
+    <Content Include="Content\images\article\pesok_scheben4.jpg" />
     <Content Include="Content\images\article\pesok_scheben_article.jpg" />
+    <Content Include="Content\images\article\pgs1.jpg" />
+    <Content Include="Content\images\article\pgs2.jpg" />
     <Content Include="Content\images\article\podushka.jpg" />
     <Content Include="Content\images\article\podushka1.jpg" />
     <Content Include="Content\images\article\stroitelnii_pesok.jpg" />
@@ -417,6 +426,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\Admin\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище u7716449_magistralModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Products">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Context" Type="nvarchar(max)" />
+    <Property Name="Header" Type="nvarchar(max)" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="title" Type="nvarchar(max)" />
+    <Property Name="keywords" Type="nvarchar(max)" />
+    <Property Name="UrlDescriptImg" Type="nvarchar(max)" />
+    <Property Name="Position" Type="int" Nullable="false" />
+    <Property Name="Visible" Type="bit" Nullable="false" />
+    <Property Name="Price" Type="nvarchar(max)" />
+    <Property Name="URL" Type="nvarchar(max)" />
+  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "u7716449_magistral.u7716449_vxod.Articles" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="Articles">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="Position" />
+      <PropertyRef Name="Visible" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Context" Type="nvarchar(max)" />
+    <Property Name="Header" Type="nvarchar(max)" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="title" Type="nvarchar(max)" />
+    <Property Name="keywords" Type="nvarchar(max)" />
+    <Property Name="UrlDescriptImg" Type="nvarchar(max)" />
+    <Property Name="Position" Type="int" Nullable="false" />
+    <Property Name="Visible" Type="bit" Nullable="false" />
+    <Property Name="Menu" Type="nvarchar(max)" />
+    <Property Name="URL" Type="nvarchar(max)" />
+    <Property Name="Layout" Type="nvarchar(max)" />
+    <Property Name="Razdel" Type="nvarchar(max)" />
+    <Property Name="SmallDescript" Type="nvarchar(max)" />
+    <Property Name="Date" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Messager">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Phone" Type="nvarchar(max)" />
+    <Property Name="UserName" Type="nvarchar(max)" />
+    <Property Name="EmailAdrress" Type="nvarchar(max)" />
+    <Property Name="Message" Type="nvarchar(max)" />
+    <Property Name="Date" Type="datetime" Nullable="false" />
+  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "u7716449_magistral.u7716449_vxod.Prices" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="Prices">
+    <Key>
+      <PropertyRef Name="id" />
+      <PropertyRef Name="Group_Name" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" />
+    <Property Name="IE" Type="nchar" MaxLength="10" />
+    <Property Name="Price" Type="real" />
+    <Property Name="Group_Name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Group_Name_Main" Type="nvarchar(max)" />
+    <Property Name="URL" Type="nvarchar(max)" />
+    <Property Name="SortIndex" Type="int" />
+  </EntityType>
+  <EntityContainer Name="Хранилище u7716449_magistralModelContainer">
+    <EntitySet Name="Products" EntityType="Self.Products" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Messager" EntityType="Self.Messager" Schema="u7716449_vxod" store:Type="Tables" />
+    <EntitySet Name="Articles" EntityType="Self.Articles" store:Type="Tables" store:Schema="u7716449_vxod">
+      <DefiningQuery>SELECT 
+    [Articles].[Id] AS [Id], 
+    [Articles].[Context] AS [Context], 
+    [Articles].[Header] AS [Header], 
+    [Articles].[Description] AS [Description], 
+    [Articles].[title] AS [title], 
+    [Articles].[keywords] AS [keywords], 
+    [Articles].[UrlDescriptImg] AS [UrlDescriptImg], 
+    [Articles].[Position] AS [Position], 
+    [Articles].[Visible] AS [Visible], 
+    [Articles].[Menu] AS [Menu], 
+    [Articles].[URL] AS [URL], 
+    [Articles].[Layout] AS [Layout], 
+    [Articles].[Razdel] AS [Razdel], 
+    [Articles].[SmallDescript] AS [SmallDescript], 
+    [Articles].[Date] AS [Date]
+    FROM [u7716449_vxod].[Articles] AS [Articles]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Prices" EntityType="Self.Prices" store:Type="Tables" store:Schema="u7716449_vxod">
+      <DefiningQuery>SELECT 
+    [Prices].[id] AS [id], 
+    [Prices].[Name] AS [Name], 
+    [Prices].[IE] AS [IE], 
+    [Prices].[Price] AS [Price], 
+    [Prices].[Group_Name] AS [Group_Name], 
+    [Prices].[Group_Name_Main] AS [Group_Name_Main], 
+    [Prices].[URL] AS [URL], 
+    [Prices].[SortIndex] AS [SortIndex]
+    FROM [u7716449_vxod].[Prices] AS [Prices]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
