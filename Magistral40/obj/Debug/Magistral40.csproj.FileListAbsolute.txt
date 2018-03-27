@@ -1286,3 +1286,4 @@ F:\Проекты\Магистраль\Magistral\Magistral40\bin\ru\Microsoft.Ow
 F:\Проекты\Магистраль\Magistral\Magistral40\obj\Debug\Magistral40.csproj.CoreCompileInputs.cache
 F:\Проекты\Магистраль\Magistral\Magistral40\obj\Debug\Magistral40.dll
 F:\Проекты\Магистраль\Magistral\Magistral40\obj\Debug\Magistral40.pdb
+F:\Проекты\Магистраль\Magistral\Magistral40\obj\Debug\Magistral40.csprojResolveAssemblyReference.cache

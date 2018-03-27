@@ -15,6 +15,7 @@ namespace Magistral40.Models
         public String Name { get; set; }
         [Display(Name = "Единица измерения")]
         public String IE { get; set; }
+        public String classM { get; set; }
         public String URL { get; set; }
         public String Group_Name { get; set; }
         public String Group_Name_Main { get; set; }

@@ -215,6 +215,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\images\article\beton-svoimi-rukami-1.jpg" />
     <Content Include="Content\images\article\beton-svoimi-rukami-2.jpg" />
+    <Content Include="Content\images\article\betonomeshalka.jpg" />
     <Content Include="Content\images\article\but_170_110.jpg" />
     <Content Include="Content\images\article\but_260_180.jpg" />
     <Content Include="Content\images\article\frac_scheben.jpg" />

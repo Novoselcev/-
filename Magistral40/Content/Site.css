@@ -126,7 +126,17 @@ span.NumbPr{color:#735700;padding:10px 10px;background-color:#f9ca19;background:
 .table_mess .table_tr:last-child td:first-child{vertical-align:top;}
 .modal-content-menu { width:100%;height:100%; background-color:#bd3538;border:1px solid #999999;border:1px solid rgba(0, 0, 0, 0.2);border-radius:6px;outline:none;-webkit-box-shadow:0 3px 9px rgba(0, 0, 0, 0.5);box-shadow:0 3px 9px rgba(0, 0, 0, 0.5);background-clip:padding-box;}
 #myMenuModal .modal-content-menu {opacity:0.95;}
-.close_but_menu, .close_but {     
+.menu_buttom {
+    border: 0.1em solid #fff !important;
+    font-family: MullerRegular;
+    font-size: 16px;
+    color: #fff;
+    padding: 5px;
+}
+    .menu_buttom:hover {
+        color: #333;
+    }
+.close_but_menu, .close_but {
     float: right;
     font-size: 30px;
     font-weight: bold;
@@ -134,9 +144,9 @@ span.NumbPr{color:#735700;padding:10px 10px;background-color:#f9ca19;background:
     color: #ffffff;
     text-shadow: 0 1px 0 #ffffff;
     opacity: 0.9;
-    position:absolute;
-    top:10px;
-    right:20px;
+    position: absolute;
+    top: 10px;
+    right: 20px;
     padding: 10px 20px;
     background-color: #ae3135;
     background: linear-gradient(to top, #9b2d30, #c8373b);
