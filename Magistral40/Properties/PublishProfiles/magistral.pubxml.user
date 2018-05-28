@@ -10,709 +10,808 @@
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/Antlr3.Runtime.dll">
-      <publishTime>09/02/2017 22:32:12</publishTime>
+      <publishTime>02/23/2018 10:36:30</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>02/23/2018 10:36:30</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
-      <publishTime>09/02/2017 22:32:18</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/EntityFramework.SqlServer.dll">
-      <publishTime>09/02/2017 22:32:19</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/Magistral40.dll">
-      <publishTime>02/20/2018 21:09:16</publishTime>
+      <publishTime>03/27/2018 21:19:20</publishTime>
+    </File>
+    <File Include="bin/Magistral40.pdb">
+      <publishTime>03/27/2018 21:19:20</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
-      <publishTime>09/02/2017 22:32:26</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
-      <publishTime>09/02/2017 22:32:26</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
-      <publishTime>09/02/2017 22:32:27</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
-      <publishTime>09/02/2017 22:32:36</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.dll">
-      <publishTime>09/02/2017 22:32:41</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
-      <publishTime>09/02/2017 22:32:41</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
-      <publishTime>09/02/2017 22:32:43</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.dll">
-      <publishTime>09/02/2017 22:32:42</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
-      <publishTime>09/02/2017 22:32:43</publishTime>
+      <publishTime>02/23/2018 10:36:32</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.Google.dll">
-      <publishTime>09/02/2017 22:32:44</publishTime>
+      <publishTime>02/23/2018 10:36:32</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
-      <publishTime>09/02/2017 22:32:44</publishTime>
+      <publishTime>02/23/2018 10:36:32</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
-      <publishTime>09/02/2017 22:32:45</publishTime>
+      <publishTime>02/23/2018 10:36:32</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
-      <publishTime>09/02/2017 22:32:45</publishTime>
+      <publishTime>02/23/2018 10:36:32</publishTime>
     </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
-      <publishTime>09/02/2017 22:32:46</publishTime>
+      <publishTime>02/23/2018 10:36:32</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
-      <publishTime>09/02/2017 22:32:48</publishTime>
+      <publishTime>04/02/2017 17:46:32</publishTime>
     </File>
     <File Include="bin/NotFoundMvc.dll">
-      <publishTime>01/30/2018 19:09:43</publishTime>
+      <publishTime>02/24/2017 16:42:28</publishTime>
     </File>
     <File Include="bin/Owin.dll">
-      <publishTime>09/02/2017 22:32:49</publishTime>
+      <publishTime>02/23/2018 10:36:32</publishTime>
     </File>
     <File Include="bin/RazorEngine.dll">
-      <publishTime>09/02/2017 22:32:49</publishTime>
+      <publishTime>02/23/2018 10:36:32</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
-      <publishTime>09/02/2017 22:32:38</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
-      <publishTime>09/02/2017 22:32:38</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
-      <publishTime>09/02/2017 22:32:39</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
-      <publishTime>09/02/2017 22:32:39</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
-      <publishTime>09/02/2017 22:32:40</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
-      <publishTime>09/02/2017 22:32:40</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
-      <publishTime>09/02/2017 22:32:40</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/roslyn/System.Collections.Immutable.dll">
-      <publishTime>09/02/2017 22:32:40</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/roslyn/System.Reflection.Metadata.dll">
-      <publishTime>09/02/2017 22:32:40</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/roslyn/vbc.exe">
-      <publishTime>09/02/2017 22:32:40</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/roslyn/VBCSCompiler.exe">
-      <publishTime>09/02/2017 22:32:40</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/roslyn/VBCSCompiler.exe.config">
-      <publishTime>09/02/2017 22:32:40</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/ru/EntityFramework.resources.dll">
-      <publishTime>09/02/2017 22:32:19</publishTime>
+      <publishTime>03/02/2015 09:32:38</publishTime>
     </File>
     <File Include="bin/ru/EntityFramework.SqlServer.resources.dll">
-      <publishTime>09/02/2017 22:32:19</publishTime>
+      <publishTime>03/02/2015 09:32:38</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.AspNet.Identity.Core.resources.dll">
-      <publishTime>09/02/2017 22:32:26</publishTime>
+      <publishTime>04/03/2015 17:09:50</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.AspNet.Identity.EntityFramework.resources.dll">
-      <publishTime>09/02/2017 22:32:26</publishTime>
+      <publishTime>04/03/2015 17:09:52</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.AspNet.Identity.Owin.resources.dll">
-      <publishTime>09/02/2017 22:32:27</publishTime>
+      <publishTime>04/03/2015 17:09:52</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.Owin.Host.SystemWeb.resources.dll">
-      <publishTime>09/02/2017 22:32:41</publishTime>
+      <publishTime>02/13/2015 13:24:52</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.Owin.resources.dll">
-      <publishTime>09/02/2017 22:32:41</publishTime>
+      <publishTime>02/13/2015 13:24:52</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.Owin.Security.Facebook.resources.dll">
-      <publishTime>09/02/2017 22:32:43</publishTime>
+      <publishTime>02/13/2015 13:24:52</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.Owin.Security.Google.resources.dll">
-      <publishTime>09/02/2017 22:32:44</publishTime>
+      <publishTime>02/13/2015 13:24:54</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.Owin.Security.MicrosoftAccount.resources.dll">
-      <publishTime>09/02/2017 22:32:44</publishTime>
+      <publishTime>02/13/2015 13:24:54</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.Owin.Security.resources.dll">
-      <publishTime>09/02/2017 22:32:42</publishTime>
+      <publishTime>02/13/2015 13:24:54</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.Owin.Security.Twitter.resources.dll">
-      <publishTime>09/02/2017 22:32:45</publishTime>
+      <publishTime>02/13/2015 13:24:54</publishTime>
     </File>
     <File Include="bin/ru/System.Web.Helpers.resources.dll">
-      <publishTime>09/02/2017 22:32:34</publishTime>
+      <publishTime>01/28/2015 04:04:40</publishTime>
     </File>
     <File Include="bin/ru/System.Web.Mvc.resources.dll">
-      <publishTime>09/02/2017 22:32:29</publishTime>
+      <publishTime>01/28/2015 04:02:30</publishTime>
     </File>
     <File Include="bin/ru/System.Web.Optimization.resources.dll">
-      <publishTime>09/02/2017 22:32:32</publishTime>
+      <publishTime>02/11/2014 15:28:42</publishTime>
     </File>
     <File Include="bin/ru/System.Web.Razor.resources.dll">
-      <publishTime>09/02/2017 22:32:31</publishTime>
+      <publishTime>01/28/2015 04:02:40</publishTime>
     </File>
     <File Include="bin/ru/System.Web.WebPages.Deployment.resources.dll">
-      <publishTime>09/02/2017 22:32:34</publishTime>
+      <publishTime>01/28/2015 04:04:40</publishTime>
     </File>
     <File Include="bin/ru/System.Web.WebPages.Razor.resources.dll">
-      <publishTime>09/02/2017 22:32:34</publishTime>
+      <publishTime>01/28/2015 04:04:40</publishTime>
     </File>
     <File Include="bin/ru/System.Web.WebPages.resources.dll">
-      <publishTime>09/02/2017 22:32:34</publishTime>
+      <publishTime>01/28/2015 04:04:40</publishTime>
     </File>
     <File Include="bin/System.Web.Helpers.dll">
-      <publishTime>09/02/2017 22:32:33</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/System.Web.Mvc.dll">
-      <publishTime>09/02/2017 22:32:28</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/System.Web.Optimization.dll">
-      <publishTime>09/02/2017 22:32:32</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/System.Web.Razor.dll">
-      <publishTime>09/02/2017 22:32:31</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.Deployment.dll">
-      <publishTime>09/02/2017 22:32:33</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.dll">
-      <publishTime>09/02/2017 22:32:33</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.Razor.dll">
-      <publishTime>09/02/2017 22:32:33</publishTime>
+      <publishTime>02/23/2018 10:36:31</publishTime>
     </File>
     <File Include="bin/VkNet.UWP.dll">
-      <publishTime>09/06/2017 22:42:45</publishTime>
+      <publishTime>02/23/2018 10:36:32</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
-      <publishTime>09/02/2017 22:32:50</publishTime>
+      <publishTime>02/23/2018 10:36:32</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>02/23/2018 17:54:13</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>02/23/2018 17:54:13</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>02/23/2018 17:54:13</publishTime>
     </File>
     <File Include="Content/bootstrap.css">
-      <publishTime>02/20/2018 21:08:40</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>02/23/2018 17:54:08</publishTime>
     </File>
     <File Include="Content/bootstrap.min.css">
-      <publishTime>02/20/2018 21:08:49</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
+    </File>
+    <File Include="Content/images/article/beton-svoimi-rukami-1.jpg">
+      <publishTime>03/24/2018 11:18:04</publishTime>
+    </File>
+    <File Include="Content/images/article/beton-svoimi-rukami-2.jpg">
+      <publishTime>03/24/2018 11:18:04</publishTime>
+    </File>
+    <File Include="Content/images/article/betonomeshalka.jpg">
+      <publishTime>03/27/2018 21:03:40</publishTime>
     </File>
     <File Include="Content/images/article/but_170_110.jpg">
-      <publishTime>01/31/2018 18:28:42</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/article/but_260_180.jpg">
-      <publishTime>01/31/2018 18:28:42</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/article/frac_scheben.jpg">
-      <publishTime>10/25/2017 22:15:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/article/fr_scheben.jpg">
-      <publishTime>10/26/2017 23:41:08</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/article/fundament_but.jpg">
-      <publishTime>12/17/2017 19:55:06</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/article/info-pgs.jpg">
-      <publishTime>10/03/2017 19:40:24</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/article/info-scheben.jpg">
-      <publishTime>10/03/2017 19:40:24</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/article/info-scheben2.jpg">
-      <publishTime>10/03/2017 19:40:24</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/article/pesok_rechnoi_170_110.jpg">
-      <publishTime>01/31/2018 18:28:42</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/article/pesok_rechnoi_260_180.jpg">
-      <publishTime>01/31/2018 18:28:42</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/article/pesok_scheben.jpg">
-      <publishTime>10/25/2017 22:15:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
+    </File>
+    <File Include="Content/images/article/pesok_scheben1.jpg">
+      <publishTime>03/24/2018 11:18:48</publishTime>
+    </File>
+    <File Include="Content/images/article/pesok_scheben4.jpg">
+      <publishTime>03/24/2018 11:18:48</publishTime>
     </File>
     <File Include="Content/images/article/pesok_scheben_article.jpg">
-      <publishTime>10/26/2017 23:41:08</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
+    </File>
+    <File Include="Content/images/article/pgs1.jpg">
+      <publishTime>03/24/2018 11:18:48</publishTime>
+    </File>
+    <File Include="Content/images/article/pgs2.jpg">
+      <publishTime>03/24/2018 11:18:48</publishTime>
     </File>
     <File Include="Content/images/article/podushka.jpg">
-      <publishTime>10/25/2017 22:15:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/article/podushka1.jpg">
-      <publishTime>10/26/2017 23:41:08</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
+    </File>
+    <File Include="Content/images/article/stroitelnii_pesok.jpg">
+      <publishTime>02/23/2018 10:36:27</publishTime>
+    </File>
+    <File Include="Content/images/article/stroitelnii_pesok2.jpg">
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/article/styajka_keramzit.jpg">
-      <publishTime>12/17/2017 18:46:20</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/article/styajka_keramzit_m.jpg">
-      <publishTime>12/17/2017 18:49:41</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/article/styajka_keramzit_m1.jpg">
-      <publishTime>12/17/2017 18:56:37</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/article/st_fundament_but.jpg">
-      <publishTime>12/17/2017 20:18:08</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/but-call/after_call_but.png">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/but-call/befor_call_but.png">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/but-call/call_but.png">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
+    </File>
+    <File Include="Content/images/content/kachestvo.jpg">
+      <publishTime>02/23/2018 12:54:35</publishTime>
+    </File>
+    <File Include="Content/images/content/kompani.jpg">
+      <publishTime>02/23/2018 10:36:27</publishTime>
+    </File>
+    <File Include="Content/images/content/kompani1.jpg">
+      <publishTime>02/23/2018 10:36:27</publishTime>
+    </File>
+    <File Include="Content/images/content/sotrudnichestvo.png">
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/default.jpg">
-      <publishTime>02/20/2018 19:42:10</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/error404.jpg">
-      <publishTime>11/13/2017 19:02:53</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/fon.jpg">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/icon/emaill.jpg">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/icon/nameI.jpg">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/icon/phonel.jpg">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/icon/phoneS.jpg">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/icons8-Cancel-48.png">
-      <publishTime>09/03/2017 16:07:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/icons8-Ok-48 %281%29.png">
-      <publishTime>09/03/2017 16:07:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/logoMagistral.png">
-      <publishTime>02/20/2018 19:42:11</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Main/bit.png">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Main/but.jpg">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
+    </File>
+    <File Include="Content/images/Main/call_but.png">
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Main/clock.png">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Main/Doverie.jpg">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
+    </File>
+    <File Include="Content/images/Main/emaill.jpg">
+      <publishTime>02/23/2018 10:36:27</publishTime>
+    </File>
+    <File Include="Content/images/Main/fon.jpg">
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Main/grunt.jpg">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/Main/individ.png">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
+    </File>
+    <File Include="Content/images/Main/info-pgs.jpg">
+      <publishTime>02/23/2018 10:36:27</publishTime>
+    </File>
+    <File Include="Content/images/Main/info-scheben.jpg">
+      <publishTime>02/23/2018 10:36:27</publishTime>
+    </File>
+    <File Include="Content/images/Main/info-scheben2.jpg">
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/Main/keramzit.jpg">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
+    </File>
+    <File Include="Content/images/Main/nameI.jpg">
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/Main/NamPesokMS.jpg">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/Main/pesokMS.jpg">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Main/pgsMS.jpg">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
+    </File>
+    <File Include="Content/images/Main/phonel.jpg">
+      <publishTime>02/23/2018 10:36:27</publishTime>
+    </File>
+    <File Include="Content/images/Main/phoneS.jpg">
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Main/quantity.png">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Main/SchebenIGRA.jpg">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/Main/SchebenIGRV.jpg">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/Main/SchebenIZV.jpg">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Main/Spec.png">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Main/Step.jpg">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Main/StepF.png">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Main/strelka.png">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Main/trans.png">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Product/but.jpg">
-      <publishTime>10/03/2017 20:10:14</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Product/chernozem.jpg">
-      <publishTime>10/03/2017 20:15:02</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Product/granit2040.jpg">
-      <publishTime>10/03/2017 20:07:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/Product/granit4070.jpg">
-      <publishTime>10/03/2017 20:07:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Product/granit510.jpg">
-      <publishTime>10/03/2017 20:07:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/Product/granit520.jpg">
-      <publishTime>10/03/2017 20:07:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Product/grav2040.jpg">
-      <publishTime>10/03/2017 20:07:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Product/grav310.jpg">
-      <publishTime>10/03/2017 20:07:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/Product/grav4070.jpg">
-      <publishTime>10/03/2017 20:07:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Product/grav520.jpg">
-      <publishTime>10/03/2017 20:07:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/Product/gravnefr.jpg">
-      <publishTime>10/03/2017 20:07:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Product/Grunt.jpg">
-      <publishTime>10/03/2017 20:15:02</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Product/Grunt1.jpg">
-      <publishTime>09/02/2017 22:32:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/Product/izvest2040.jpg">
-      <publishTime>10/03/2017 20:07:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Product/izvest4070.jpg">
-      <publishTime>10/03/2017 20:07:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Product/izvest510.jpg">
-      <publishTime>10/03/2017 20:07:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Product/izvest540.jpg">
-      <publishTime>10/03/2017 20:07:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Product/izvest70120.jpg">
-      <publishTime>10/03/2017 20:07:04</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Product/keramzit510.jpg">
-      <publishTime>10/03/2017 20:11:46</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/Product/keramzit520.jpg">
-      <publishTime>10/03/2017 20:11:46</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Content/images/Product/PesokNam.jpg">
-      <publishTime>10/03/2017 20:04:46</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Product/PesokSeyan.jpg">
-      <publishTime>10/03/2017 20:04:46</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Product/PesokStr.jpg">
-      <publishTime>10/03/2017 20:04:46</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Product/PesokSup.jpg">
-      <publishTime>10/03/2017 20:04:46</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Product/pgs.jpg">
-      <publishTime>10/03/2017 20:08:56</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/Product/torf.jpg">
-      <publishTime>10/03/2017 20:15:02</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Content/images/slider/slider.jpg">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
+    </File>
+    <File Include="Content/jasny-bootstrap.css">
+      <publishTime>02/23/2018 17:54:13</publishTime>
+    </File>
+    <File Include="Content/jasny-bootstrap.css.map">
+      <publishTime>02/23/2018 17:54:13</publishTime>
+    </File>
+    <File Include="Content/jasny-bootstrap.min.css">
+      <publishTime>02/23/2018 17:54:13</publishTime>
     </File>
     <File Include="Content/Site.css">
-      <publishTime>02/20/2018 18:57:19</publishTime>
+      <publishTime>03/27/2018 20:06:50</publishTime>
     </File>
     <File Include="favicon.ico">
-      <publishTime>10/17/2017 22:28:54</publishTime>
+      <publishTime>02/23/2018 10:36:28</publishTime>
     </File>
     <File Include="fonts/Fontfabric - MullerBlack.otf">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 10:36:28</publishTime>
     </File>
     <File Include="fonts/Fontfabric - MullerBlackItalic.otf">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 10:36:28</publishTime>
     </File>
     <File Include="fonts/Fontfabric - MullerBold.otf">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 10:36:28</publishTime>
     </File>
     <File Include="fonts/Fontfabric - MullerBoldItalic.otf">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 10:36:28</publishTime>
     </File>
     <File Include="fonts/Fontfabric - MullerExtraBold.otf">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 10:36:28</publishTime>
     </File>
     <File Include="fonts/Fontfabric - MullerExtraBoldItalic.otf">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 10:36:28</publishTime>
     </File>
     <File Include="fonts/Fontfabric - MullerHeavy.otf">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 10:36:28</publishTime>
     </File>
     <File Include="fonts/Fontfabric - MullerHeavyItalic.otf">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 10:36:28</publishTime>
     </File>
     <File Include="fonts/Fontfabric - MullerLight.otf">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 10:36:28</publishTime>
     </File>
     <File Include="fonts/Fontfabric - MullerLightItalic.otf">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 10:36:28</publishTime>
     </File>
     <File Include="fonts/Fontfabric - MullerMedium.otf">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 10:36:28</publishTime>
     </File>
     <File Include="fonts/Fontfabric - MullerMediumItalic.otf">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 10:36:28</publishTime>
     </File>
     <File Include="fonts/Fontfabric - MullerRegular.otf">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 10:36:28</publishTime>
     </File>
     <File Include="fonts/Fontfabric - MullerRegularItalic.otf">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 10:36:28</publishTime>
     </File>
     <File Include="fonts/Fontfabric - MullerThin.otf">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 10:36:28</publishTime>
     </File>
     <File Include="fonts/Fontfabric - MullerThinItalic.otf">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 10:36:28</publishTime>
     </File>
     <File Include="fonts/Fontfabric - MullerUltraLight.otf">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 10:36:28</publishTime>
     </File>
     <File Include="fonts/Fontfabric - MullerUltraLightItalic.otf">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 10:36:28</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.eot">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 17:54:05</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.svg">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 17:54:05</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.ttf">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 17:54:05</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.woff">
-      <publishTime>09/02/2017 22:32:06</publishTime>
+      <publishTime>02/23/2018 17:54:05</publishTime>
     </File>
     <File Include="Global.asax">
-      <publishTime>09/02/2017 22:31:52</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="packages.config">
-      <publishTime>11/14/2017 18:44:41</publishTime>
+      <publishTime>02/23/2018 17:54:15</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
-      <publishTime>09/02/2017 22:32:08</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Scripts/bootstrap.min.js">
-      <publishTime>09/02/2017 22:32:08</publishTime>
+      <publishTime>02/23/2018 17:59:24</publishTime>
+    </File>
+    <File Include="Scripts/jasny-bootstrap.js">
+      <publishTime>02/23/2018 17:54:13</publishTime>
+    </File>
+    <File Include="Scripts/jasny-bootstrap.min.js">
+      <publishTime>02/23/2018 17:54:13</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.js">
-      <publishTime>09/02/2017 22:32:08</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.min.js">
-      <publishTime>09/02/2017 22:32:08</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.min.map">
-      <publishTime>09/02/2017 22:32:08</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.js">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.min.js">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.unobtrusive.js">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.unobtrusive.min.js">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Scripts/Lib.js">
-      <publishTime>12/25/2017 19:56:27</publishTime>
+      <publishTime>02/28/2018 22:19:02</publishTime>
     </File>
     <File Include="Scripts/modernizr-2.6.2.js">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Scripts/respond.js">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Scripts/respond.min.js">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Scripts/_references.js">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Account/ConfirmEmail.cshtml">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Account/ExternalLoginConfirmation.cshtml">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Account/ExternalLoginFailure.cshtml">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Account/ForgotPassword.cshtml">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Account/ForgotPasswordConfirmation.cshtml">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Account/Login.cshtml">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>03/15/2018 22:04:07</publishTime>
     </File>
     <File Include="Views/Account/Register.cshtml">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Account/ResetPassword.cshtml">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Account/ResetPasswordConfirmation.cshtml">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Account/SendCode.cshtml">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Account/VerifyCode.cshtml">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Account/_ExternalLoginsListPartial.cshtml">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Error/Forbidden.cshtml">
-      <publishTime>11/14/2017 18:59:40</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Error/NotFound.cshtml">
-      <publishTime>11/14/2017 19:04:01</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Home/About.cshtml">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Home/Company.cshtml">
-      <publishTime>09/28/2017 23:21:56</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Home/Contact.cshtml">
-      <publishTime>09/28/2017 22:35:34</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>09/13/2017 19:55:08</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Home/InfoArticle.cshtml">
-      <publishTime>10/25/2017 23:36:37</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Home/InfoContent.cshtml">
-      <publishTime>01/30/2018 23:51:34</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Views/Home/InfoContext.cshtml">
-      <publishTime>12/17/2017 19:20:11</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Home/InfoModalMenu.cshtml">
-      <publishTime>01/30/2018 23:02:54</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Views/Home/IntInfo.cshtml">
-      <publishTime>09/13/2017 22:09:04</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Home/LeftMenu.cshtml">
-      <publishTime>01/30/2018 23:51:30</publishTime>
+      <publishTime>02/28/2018 21:26:14</publishTime>
     </File>
     <File Include="Views/Home/MenuProduct.cshtml">
-      <publishTime>01/30/2018 23:20:52</publishTime>
+      <publishTime>02/28/2018 20:07:16</publishTime>
     </File>
     <File Include="Views/Home/MessageSent.cshtml">
-      <publishTime>01/16/2018 21:34:21</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Home/PriceProduct.cshtml">
-      <publishTime>09/02/2017 22:32:12</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Home/PriceV.cshtml">
-      <publishTime>09/12/2017 22:04:18</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Home/ProdContext.cshtml">
-      <publishTime>09/22/2017 22:59:32</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Home/ProductModelMenu.cshtml">
-      <publishTime>01/30/2018 22:50:07</publishTime>
+      <publishTime>02/27/2018 22:21:28</publishTime>
     </File>
     <File Include="Views/Home/Products.cshtml">
-      <publishTime>09/12/2017 22:01:42</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Home/Sotrudnichestvo.cshtml">
-      <publishTime>09/12/2017 22:09:54</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Home/TopMenu.cshtml">
-      <publishTime>01/18/2018 21:32:08</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Home/TopMenuContext.cshtml">
-      <publishTime>09/22/2017 22:48:30</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Manage/AddPhoneNumber.cshtml">
-      <publishTime>09/02/2017 22:32:12</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Manage/ChangePassword.cshtml">
-      <publishTime>09/02/2017 22:32:12</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Manage/Index.cshtml">
-      <publishTime>09/02/2017 22:32:12</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Manage/ManageLogins.cshtml">
-      <publishTime>09/02/2017 22:32:12</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Manage/SetPassword.cshtml">
-      <publishTime>09/02/2017 22:32:12</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Manage/VerifyPhoneNumber.cshtml">
-      <publishTime>09/02/2017 22:32:12</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Shared/Callback.cshtml">
-      <publishTime>09/03/2017 14:12:20</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
-      <publishTime>09/02/2017 22:32:12</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Shared/Lockout.cshtml">
-      <publishTime>09/02/2017 22:32:12</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Shared/MainMenuModal.cshtml">
-      <publishTime>01/30/2018 22:26:16</publishTime>
+      <publishTime>02/23/2018 12:54:35</publishTime>
     </File>
     <File Include="Views/Shared/ModalInfo.cshtml">
-      <publishTime>09/05/2017 22:18:02</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Shared/NotFound.cshtml">
-      <publishTime>11/14/2017 18:49:56</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>09/02/2017 22:32:12</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Shared/_LayoutInfo.cshtml">
-      <publishTime>01/31/2018 18:37:53</publishTime>
+      <publishTime>03/27/2018 20:56:55</publishTime>
     </File>
     <File Include="Views/Shared/_LayoutMagis.cshtml">
-      <publishTime>02/20/2018 20:50:31</publishTime>
+      <publishTime>03/27/2018 20:01:35</publishTime>
     </File>
     <File Include="Views/Shared/_LayoutT.cshtml">
-      <publishTime>01/31/2018 18:37:39</publishTime>
+      <publishTime>03/27/2018 20:56:45</publishTime>
     </File>
     <File Include="Views/Shared/_LoginPartial.cshtml">
-      <publishTime>09/02/2017 22:32:12</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/Web.config">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Views/_ViewStart.cshtml">
-      <publishTime>09/02/2017 22:32:10</publishTime>
+      <publishTime>02/23/2018 10:36:27</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>02/20/2018 21:09:59</publishTime>
+      <publishTime>03/27/2018 21:19:23</publishTime>
     </File>
   </ItemGroup>
 </Project>

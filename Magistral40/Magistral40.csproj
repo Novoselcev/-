@@ -221,9 +221,15 @@
     <Content Include="Content\images\article\frac_scheben.jpg" />
     <Content Include="Content\images\article\fr_scheben.jpg" />
     <Content Include="Content\images\article\fundament_but.jpg" />
+    <Content Include="Content\images\article\gravii-mag-header.jpg" />
+    <Content Include="Content\images\article\gravii-text.jpg" />
+    <Content Include="Content\images\article\gravii2-text.jpg" />
     <Content Include="Content\images\article\info-pgs.jpg" />
     <Content Include="Content\images\article\info-scheben.jpg" />
     <Content Include="Content\images\article\info-scheben2.jpg" />
+    <Content Include="Content\images\article\izvest-text.jpg" />
+    <Content Include="Content\images\article\izvest2-text.jpg" />
+    <Content Include="Content\images\article\izvestnyak-mag-header.jpg" />
     <Content Include="Content\images\article\pesok_rechnoi_170_110.jpg" />
     <Content Include="Content\images\article\pesok_rechnoi_260_180.jpg" />
     <Content Include="Content\images\article\pesok_scheben.jpg" />
@@ -343,6 +349,7 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="Content\jasny-bootstrap.css.map" />
+    <Content Include="files\kommercheskoe_predlozhenie_ooo_magistral.doc" />
     <None Include="Properties\PublishProfiles\magistral.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\bootstrap.min.js" />
